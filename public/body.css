@@ -1,0 +1,28 @@
+.input-group {
+    width: 300px; /* Ancho deseado */
+    margin: auto; /* Centrar el grupo de entrada */
+}
+
+.form-control {
+    width: 100%; /* Ocupar todo el ancho disponible */
+}
+
+p {
+    text-align: center; /* Centrar el párrafo */
+}
+
+.btn {
+    display: block; /* Convertir el botón en un bloque para centrarlo */
+    margin: auto; /* Centrar el botón */
+}
+
+footer {
+    background-color: #333; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    text-align: center; /* Centrar el texto */
+    padding: 10px 0; /* Espaciado interno */
+    position: fixed; /* Fijar el footer en la parte inferior de la ventana */
+    width: 100%; /* Ancho completo */
+    bottom: 0; /* Situar en la parte inferior */
+}
+
